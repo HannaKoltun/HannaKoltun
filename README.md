@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Anna</a> 
+<h3 align="center">future front end developer</h3>
 
 <!--
 **HannaKoltun/HannaKoltun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
