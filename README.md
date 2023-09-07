@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Anna</a> 
-<h3 align="center">future front end developer</h3>
+![[Ввод SVG](https://readme-typing-svg.demolab.com/?lines=Future+front+end+devedloper;)](https://git.io/typing-svg)
 
 <!--
 **HannaKoltun/HannaKoltun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
